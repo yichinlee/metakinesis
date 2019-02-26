@@ -7,4 +7,3 @@ In this project, I want to combine body movement with geometry to embodied the i
 
 Video Link: https://youtu.be/HIn5ap464FA
 
-<iframe width="810" height="456" src="https://www.youtube.com/embed/HIn5ap464FA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
